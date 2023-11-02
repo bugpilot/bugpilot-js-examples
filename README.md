@@ -4,4 +4,4 @@ This repo contains examples of how to install Bugpilot in your projects. Example
 
 ## Index
 
-- [Next.js 14+ with Pages Router and TypeScript](./nextjs-14-typescript) - Demo
+- Next.js 14+ with Pages Router and TypeScript: [source](./my-next-app) - [demo](https://bugpilot-js-example-next.vercel.app/)
