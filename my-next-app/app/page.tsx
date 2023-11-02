@@ -28,7 +28,6 @@ export default function Home() {
               priority
             />
           </a>
-          S
         </div>
       </div>
 
